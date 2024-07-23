@@ -26,7 +26,7 @@ Let's dive in a bit more
 Note - these prompts have been purposefully left a bit nebulous, you'll need to fill in some of the blanks of how exactly *you* want the answer to look, based off how you are going to ask it.
 
 
-1) CSS - Ask ChatGPT to create a stylesheet that will convert to a grid display with two equal columns when your screen size meets a media query breakpoint for mobile devices, and four columns in the regular desktop view
+1) CSS - Ask ChatGPT to create a stylesheet that will convert to a grid display with two equal columns with a dark red background, when your screen size meets a media query breakpoint for mobile devices, and four columns with a nice clean blue in the regular desktop view
 
 2) Express - Create a server.js file with all of our standard express boilerplate. It should run at port 3001, send a message of "Server running" when it runs, and send a string of 'Welcome to our page' when reaching our landing page
 
